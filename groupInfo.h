@@ -11,13 +11,11 @@ typedef struct node{
     char* names;
 
     struct node* next; 
-
 }node;
 
 typedef struct {
     
     node *head;
-
 }groupInfo;
 
 #endif
